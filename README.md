@@ -1,4 +1,3 @@
-ShittyIDE
-=========
+ShittyIDE is a shity IDE written by idiots for idiots.
 
-A shitty ide written for an even shittier compiler
+To run clone inside enigma-dev and call using ./ShittyIDE/ide.py 
